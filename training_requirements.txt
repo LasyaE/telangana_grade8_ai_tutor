@@ -1,0 +1,7 @@
+# Optional Colab/training environment only. Not required by the Streamlit app.
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+sentencepiece
